@@ -23,4 +23,14 @@ i.e. `Nathan/ND0000/Pos0/Pos0_aligned/img_channel000_position...z000.tif`
 
 This pipeline was originally designed to label a 2-class, mixed population cell competition images (a wild-type cell versus a mutant), but now has been modified to be more broadly applicable to a homogenous population of cell types, with the 2-class pipeline in a separate subdirectory.
 
+## Installation
+
+By downloading and installing the conda environment `segment-classify-track.yml` you can easily meet the package requirements for this repository.
+
+`Add instructions here`
+
+All that is needed then is to clone this repo and launch straight into a notebook to begin the analysis pipeline.
+
+`Add instructions here`
+
 Image loading is done via the DaskOctopusLiteLoader function from https://github.com/lowe-lab-ucl/octopuslite-reader
